@@ -2,8 +2,10 @@ package main
 
 import (
 	"fmt"
+
+	"github.com/jonascavalcantineto/cloud-connector/connectors"
 )
 
 func main() {
-	fmt.Println(connector.AWSApiStart())
+	fmt.Println(connectors.AWSApiStart())
 }
