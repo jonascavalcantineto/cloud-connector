@@ -7,8 +7,8 @@ import (
 )
 
 func main() {
-	fmt.Println(connectors.AWSApiStart())
-	fmt.Println(connectors.AzureApiStart())
+	fmt.Println(connectors.aws.AWSApiStart())
+	//fmt.Println(azure.AzureApiStart())
 	// fmt.Println(connectors.GCPApiStart())
 	// fmt.Println(connectors.ReverseRunes("jonascavalcantineto"))
 	fmt.Println(cmp.Diff("Hello World", "Hello Go"))

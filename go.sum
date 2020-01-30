@@ -3,4 +3,5 @@ github.com/google/go-cmp v0.4.0/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/
 github.com/jonascavalcantineto/cloud-connector v0.0.0-20200129190404-9c7e2dfb802c h1:J4+Io4OfdFCNPTGv5LwHHVD1KGgEjlSpgKFUYi6kM64=
 github.com/jonascavalcantineto/cloud-connector/connectors v0.0.0-20200130183635-b7b9408c4737 h1:Ew8ZUOu+bgWr9Elz3izAYGzR4FUYh09XT0K5uIrgh2o=
 github.com/jonascavalcantineto/cloud-connector/connectors v0.0.0-20200130183921-653a9afe5c25 h1:CS78DZWTtr0F2dKGWinl5eGy3y80Vw8P03NwkC0QOW8=
+github.com/jonascavalcantineto/cloud-connector/connectors v0.0.0-20200130184510-47a05192e361 h1:cizFwLiXhDTfseDs2amAoLlWvylkapXzj1p8/y322JU=
 golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=

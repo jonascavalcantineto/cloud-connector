@@ -1,4 +1,4 @@
-package aws
+package connectors/aws
 
 func AWSApiStart() string {
 	return "Connected on AWS API"
